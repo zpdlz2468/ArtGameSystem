@@ -4,7 +4,7 @@ let canvasHeight = 400;
 
 function setup() {
   canvas = createCanvas(canvasWidth, canvasHeight);
-  canvas.position(windowWidth/2 - canvasWidth/2, 50);
+  canvas.position(windowWidth/2 - canvasWidth/2, 20);
   noCursor();
 }
 
